@@ -2,13 +2,13 @@
     "schemaVersion": 1,
     "authors": ["Teal Wolf 25","ElegastTheFiend"],
     "environment": "*",
-    "name": "Extra Trinkets",
-    "id": "extra_trinkets",
-    "version": "1.8",
-    "description": "Adds practical Trinkets slots, mostly to Create.",
+    "name": "Extra Accessories",
+    "id": "extra_accessories",
+    "version": "2.0",
+    "description": "Adds practical accessory slots so that your inventory isn't as cluttered.",
     "icon": "pack.png",
     "license": "All rights reserved",
     "depends": {
-    "trinkets": "*"
+    "accessories": "*"
   }
 }
