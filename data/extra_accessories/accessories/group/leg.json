@@ -1,7 +1,7 @@
 {
   "replace": false,
   "slots": [
-    "controller",
+    "remote",
     "wrench"
   ]
 }
